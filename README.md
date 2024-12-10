@@ -1,4 +1,19 @@
-# React + TypeScript + Vite
+# Carwash Calendar
+
+this project is to create a carwash calendar for splitting money and adjust schedule for the Carwash in Petrol Canada.
+
+## Scenerio
+In canada, Car wash has been a pain for most people due to weather and its cost. To most ppl the best way to have carwash is to share a washing pass that last for 30 days -180 days. We will open a group on Telegram and each member will have 1 day of a week to wash the car. The group leader will be the one who in charge for owning the carwash card and distribute the login info to other group member. since it is a bit of repeated calculation to generate the schedule for the car wash cycle and calculate the amount of someone who owes the leader. This app is created to facilitate the generation of schedule and calculate the amount needs to pay for each participant in the cycle.
+
+## disclaimer
+
+this project is not to demonstrate any Code or Design pattern, please dun access any of my skills based on this repo
+
+<summary>
+ React + TypeScript + Vite
+</summary>
+<detail>
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
@@ -48,3 +63,4 @@ export default tseslint.config({
   },
 })
 ```
+</detail>
